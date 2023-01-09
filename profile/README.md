@@ -4,4 +4,4 @@
 
 This GitHub organization exists to support UK-IPOP researchers by providing data anlaysis and data-driven software in an open format.
 
-It is mostly maintained by Nick Anthony.
+It is mostly maintained by @nanthony007
